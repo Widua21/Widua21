@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Widua21
-- 👀 I’m interested in .wed develeopment..
+- 👀 I’m interested in wed develeopment..
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
